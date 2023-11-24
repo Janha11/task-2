@@ -1,0 +1,17 @@
+
+.slide{
+width: 200px;
+height: 200px;
+left: 100px;
+}
+.slide_text{
+    color: black;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+
+}
+.slide_button{
+    width: 150px;
+    padding: 8px;
+}
